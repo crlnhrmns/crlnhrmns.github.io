@@ -229,6 +229,7 @@ header {
     text-align: center;
     color: #fff;
     max-height: 100%;
+    background-color: #8a7c6b;
 }
 header .intro-text {
     padding-top: 80px;
