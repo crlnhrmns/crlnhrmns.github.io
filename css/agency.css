@@ -48,7 +48,7 @@ h6 {
     background-color: #f7f7f7
 }
 .bg-darkest-gray {
-    background-color: #222
+    background-color: #0B0A14
 }
 .btn-primary {
     color: #fff;
@@ -210,7 +210,7 @@ fieldset[disabled] .btn-xl.active {
         border-radius: 3px
     }
     .navbar-default.navbar-shrink {
-        background-color: #222;
+        background-color: ##0B0A14;
         padding: 10px 0
     }
     .navbar-default.navbar-shrink .navbar-brand {
@@ -547,7 +547,7 @@ aside.clients img {
     margin: 50px auto
 }
 section#contact {
-    background-color: #222;
+    background-color: ##0B0A14;
     background-image: url(../img/ink.jpg);
     background-position: center;
     background-repeat: no-repeat
@@ -621,7 +621,7 @@ ul.social-buttons {
 }
 ul.social-buttons li a {
     display: block;
-    background-color: #222;
+    background-color: #0B0A14;
     height: 40px;
     width: 40px;
     border-radius: 100%;
@@ -690,7 +690,7 @@ ul.social-buttons li a:active {
     height: 75px;
     width: 1px;
     margin-left: 35px;
-    background-color: #222;
+    background-color: #0B0A14;
     transform: rotate(45deg);
     -ms-transform: rotate(45deg);
     -webkit-transform: rotate(45deg);
@@ -699,7 +699,7 @@ ul.social-buttons li a:active {
 .portfolio-modal .close-modal .lr .rl {
     height: 75px;
     width: 1px;
-    background-color: #222;
+    background-color: #0B0A14;
     transform: rotate(90deg);
     -ms-transform: rotate(90deg);
     -webkit-transform: rotate(90deg);
