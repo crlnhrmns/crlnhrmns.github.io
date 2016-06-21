@@ -218,8 +218,9 @@ fieldset[disabled] .btn-xl.active {
     }
 }
 header {
-    background-image: url(../img/header-bg.jpg);
-    background-repeat: none;
+    background-image: url("img/asfalt-dark.png"), url(../img/header-bg.jpg);
+   background-repeat: repeat, no-repeat;
+   background-size: auto, cover;
     background-attachment: scroll;
     background-position: center center;
     -webkit-background-size: cover;
@@ -228,11 +229,10 @@ header {
     -o-background-size: cover;
     text-align: center;
     color: #fff;
-    max-height: 100%;
     background-color: #8a7c6b;
 }
 header .intro-text {
-    padding-top: 80px;
+    padding-top: 100px;
     padding-bottom: 50px
 }
 header .intro-text .intro-lead-in {
