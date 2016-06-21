@@ -29,7 +29,7 @@ a:hover,
 a:focus,
 a:active,
 a.active {
-    color: #fec503
+    color: #80BDB0
 }
 h1,
 h2,
@@ -64,7 +64,7 @@ h6 {
 .btn-primary.active,
 .open .dropdown-toggle.btn-primary {
     color: #fff;
-    background-color: #fec503;
+    background-color: #80BDB0;
     border-color: #f6bf01
 }
 .btn-primary:active,
@@ -111,7 +111,7 @@ fieldset[disabled] .btn-primary.active {
 .btn-xl.active,
 .open .dropdown-toggle.btn-xl {
     color: #fff;
-    background-color: #fec503;
+    background-color: #80BDB0;
     border-color: #f6bf01
 }
 .btn-xl:active,
@@ -153,7 +153,7 @@ fieldset[disabled] .btn-xl.active {
 .navbar-default .navbar-brand:focus,
 .navbar-default .navbar-brand:active,
 .navbar-default .navbar-brand.active {
-    color: #fec503
+    color: #80BDB0
 }
 .navbar-default .navbar-collapse {
     border-color: rgba(255, 255, 255, .02)
@@ -189,7 +189,7 @@ fieldset[disabled] .btn-xl.active {
 .navbar-default .navbar-nav>.active>a:hover,
 .navbar-default .navbar-nav>.active>a:focus {
     color: #fff;
-    background-color: #fec503
+    background-color: #80BDB0
 }
 @media (min-width: 768px) {
     .navbar-default {
