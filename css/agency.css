@@ -617,7 +617,9 @@ footer ul.quicklinks {
     text-transform: none
 }
 ul.social-buttons {
-    margin-bottom: 0
+    margin-bottom: 0;
+    text-align: center;
+
 }
 ul.social-buttons li a {
     display: block;
