@@ -641,6 +641,11 @@ ul.social-buttons li a:focus,
 ul.social-buttons li a:active {
     background-color: #4F9297
 }
+.center-block {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
 .btn:focus,
 .btn:active,
 .btn.active,
