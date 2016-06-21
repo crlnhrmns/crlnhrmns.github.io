@@ -633,7 +633,8 @@ ul.social-buttons li a {
     outline: 0;
     -webkit-transition: all .3s;
     -moz-transition: all .3s;
-    transition: all .3s
+    transition: all .3s;
+    text-align: center;
 }
 ul.social-buttons li a:hover,
 ul.social-buttons li a:focus,
