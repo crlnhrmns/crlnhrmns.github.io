@@ -737,5 +737,7 @@ body {
 	margin-right: .3em;
 }
 
-
+header {
+    background-size: auto, cover;
+}
 
