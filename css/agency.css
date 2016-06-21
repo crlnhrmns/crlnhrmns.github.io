@@ -147,8 +147,7 @@ fieldset[disabled] .btn-xl.active {
 }
 .navbar-default .navbar-brand {
     color: #4F9297;
-    font-family: "Kaushan Script", "Helvetica Neue", Helvetica, Arial, cursive;
-    font-size: 1.2em
+    font-family: Montserrat, "Helvetica Neue", Helvetica, Arial, cursive
 }
 .navbar-default .navbar-brand:hover,
 .navbar-default .navbar-brand:focus,
