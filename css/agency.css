@@ -218,9 +218,8 @@ fieldset[disabled] .btn-xl.active {
     }
 }
 header {
-    background-image: url("../img/asfalt-dark.png"), url(../img/header-bg.jpg);
-   background-repeat: repeat, no-repeat;
-   background-size: auto, cover;
+    background-image: url(../img/header-bg.jpg);
+    background-repeat: none;
     background-attachment: scroll;
     background-position: center center;
     -webkit-background-size: cover;
@@ -549,7 +548,7 @@ aside.clients img {
 }
 section#contact {
     background-color: #222;
-    background-image: url(../img/map-image.png);
+    background-image: url(../img/ink.jpg);
     background-position: center;
     background-repeat: no-repeat
 }
@@ -737,7 +736,5 @@ body {
 	margin-right: .3em;
 }
 
-header {
-    background-size: auto, cover;
-}
+
 
