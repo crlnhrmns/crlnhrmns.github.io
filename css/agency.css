@@ -751,8 +751,10 @@ body {
 
 .contact-me {
 	color: #fff;
-	font-size: 1.2em;
 }
 
+.projecten {
+	max-width: 560px
+}
 
 
